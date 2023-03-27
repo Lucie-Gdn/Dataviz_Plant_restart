@@ -1,0 +1,13 @@
+#image {
+    width: 100px;
+}
+#img-wrapper {
+    display: flex;
+    justify-content: center;
+}
+.common_name{
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    text-align: center;
+}
